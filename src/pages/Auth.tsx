@@ -98,6 +98,10 @@ const Auth = () => {
           title: "Conta criada!",
           description: "Sua conta foi criada e confirmada automaticamente. Você já pode fazer login.",
         });
+        // Limpar os campos
+        setEmail("");
+        setPassword("");
+        // Mudar para tela de login
         setIsLogin(true);
       }
     } catch (error: any) {
