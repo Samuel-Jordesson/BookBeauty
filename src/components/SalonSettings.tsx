@@ -38,15 +38,15 @@ const SalonSettings = ({ salon, userId, onUpdate }: SalonSettingsProps) => {
   
   // Estados para fundo personalizado
   const [backgroundType, setBackgroundType] = useState<'color' | 'image'>(salon?.background_type || 'color');
-  const [backgroundColor, setBackgroundColor] = useState(salon?.background_color || '#1a1a1a');
+  const [backgroundColor, setBackgroundColor] = useState(salon?.background_color || '#000000'); // Preto
   const [backgroundImageUrl, setBackgroundImageUrl] = useState(salon?.background_image_url || "");
   const [backgroundImagePreview, setBackgroundImagePreview] = useState(salon?.background_image_url || "");
   const [uploadingBackground, setUploadingBackground] = useState(false);
   
   // Estados para personalização do modal
-  const [buttonColor, setButtonColor] = useState(salon?.button_color || '#dc2626');
+  const [buttonColor, setButtonColor] = useState(salon?.button_color || '#dc2626'); // Vermelho do site
   const [fontFamily, setFontFamily] = useState(salon?.font_family || 'Inter');
-  const [modalBackgroundColor, setModalBackgroundColor] = useState(salon?.modal_background_color || '#ffffff');
+  const [modalBackgroundColor, setModalBackgroundColor] = useState(salon?.modal_background_color || '#1a1a1a'); // Cinza escuro quase preto
   const [modalOpacity, setModalOpacity] = useState(salon?.modal_opacity || 95);
   
   const [loading, setLoading] = useState(false);
