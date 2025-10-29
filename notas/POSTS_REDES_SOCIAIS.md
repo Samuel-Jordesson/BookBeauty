@@ -4,7 +4,7 @@
 
 **📱 Sobre o que é:**
 
-Conheça o **BookBeauty** - Sistema completo de agendamento online para salões e barbearias! Seus clientes agendam 24/7 pelo link personalizado, você gerencia tudo em um único painel. Simples, rápido e profissional! 💇‍♀️💇‍♂️
+Conheça o **BookBeauty** - Sistema completo de agendamento online para salões e barbearias! Acesse reutbook.com e crie sua conta. Seus clientes agendam 24/7 pelo link personalizado, você gerencia tudo em um único painel. Simples, rápido e profissional! 💇‍♀️💇‍♂️
 
 **Hashtags:**
 #BookBeauty #AgendamentoOnline #Salões #Barbearias #Beleza #NegócioDigital #Automação #GestãoDeAgendamentos #SistemaOnline #MarketingDigital #Empreendedorismo #Cabeleireiro #Barbeiro #TecnologiaParaSalões
@@ -15,7 +15,7 @@ Conheça o **BookBeauty** - Sistema completo de agendamento online para salões 
 
 **📱 Sobre cadastro fácil:**
 
-Crie sua conta no **BookBeauty** em menos de 2 minutos! Configure seu salão e comece a receber agendamentos online hoje mesmo. Sem complicação, sem conhecimento técnico - apenas simples e funcional! 🚀
+Crie sua conta no **BookBeauty** em menos de 2 minutos! Acesse reutbook.com, configure seu salão e comece a receber agendamentos online hoje mesmo. Sem complicação, sem conhecimento técnico - apenas simples e funcional! 🚀
 
 **Hashtags:**
 #BookBeauty #AgendamentoOnline #CadastroRápido #Simplicidade #GestãoDeSalão #TecnologiaParaBeleza #Empreendedorismo #Automação #Negócios #MarketingDigital #Salões #Barbearias #Produtividade #FerramentasDigitais
@@ -26,7 +26,7 @@ Crie sua conta no **BookBeauty** em menos de 2 minutos! Configure seu salão e c
 
 **📱 Sobre visualizar agendamentos:**
 
-Com o **BookBeauty**, você vê todos os agendamentos em um só lugar! Organizados por data, com busca rápida e notificações automáticas. Tenha controle total do seu negócio na palma da mão! 📊✨
+Com o **BookBeauty** (reutbook.com), você vê todos os agendamentos em um só lugar! Organizados por data, com busca rápida e notificações automáticas. Tenha controle total do seu negócio na palma da mão! 📊✨
 
 **Hashtags:**
 #BookBeauty #GestãoDeAgendamentos #Organização #Produtividade #PainelDeControle #Automação #TecnologiaParaSalões #NegócioDigital #Eficiência #SistemaOnline #Salões #Barbearias #GestãoProfissional #MarketingDigital
@@ -37,7 +37,7 @@ Com o **BookBeauty**, você vê todos os agendamentos em um só lugar! Organizad
 
 **📱 Sobre personalização:**
 
-Personalize seu link de agendamento no **BookBeauty**! Escolha cores, fontes, adicione sua logo e crie uma página única que representa a identidade do seu salão. Profissionalismo que impressiona seus clientes! 🎨💼
+Personalize seu link de agendamento no **BookBeauty**! Acesse reutbook.com, escolha cores, fontes, adicione sua logo e crie uma página única que representa a identidade do seu salão. Profissionalismo que impressiona seus clientes! 🎨💼
 
 **Hashtags:**
 #BookBeauty #Personalização #IdentidadeVisual #MarcaPessoal #DesignProfissional #MarketingDigital #Salões #Barbearias #Branding #LinkPersonalizado #PresençaDigital #EstratégiaDigital #Empreendedorismo #DiferencialCompetitivo
@@ -48,7 +48,7 @@ Personalize seu link de agendamento no **BookBeauty**! Escolha cores, fontes, ad
 
 **Versão Completa:**
 
-💇‍♀️ Conheça o **BookBeauty** - Sistema completo de agendamento online para salões e barbearias!
+💇‍♀️ Conheça o **BookBeauty** - Sistema completo de agendamento online para salões e barbearias! Acesse reutbook.com
 
 ✨ **Crie sua conta em menos de 2 minutos** - Simples, rápido e sem complicação!
 
@@ -65,7 +65,7 @@ Seus clientes agendam 24/7, você gerencia tudo em um painel intuitivo! 🚀
 
 **Versão Curta:**
 
-💇‍♀️ **BookBeauty** - Sistema de agendamento para salões!
+💇‍♀️ **BookBeauty** - Sistema de agendamento para salões! reutbook.com
 ✨ Cadastro em 2min | 📊 Controle total | 🎨 100% personalizável
 Seus clientes agendam 24/7! 🚀
 
