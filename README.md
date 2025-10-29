@@ -1,12 +1,12 @@
-# BookBeauty - Sistema de Agendamento para Salões e Barbearias
+# ReutBook - Sistema de Agendamento para Salões e Barbearias
 
 Sistema completo de agendamento online que permite que salões de beleza e barbearias criem páginas personalizadas para receber agendamentos de seus clientes de forma simples e profissional.
 
 ## 💡 A Ideia
 
-O **BookBeauty** nasceu para resolver um problema comum: a dificuldade de gerenciar agendamentos em salões e barbearias. Muitos estabelecimentos ainda dependem de ligações telefônicas, mensagens ou anotações manuais, o que resulta em agendamentos perdidos, confusão de horários e tempo desperdiçado.
+O **ReutBook** nasceu para resolver um problema comum: a dificuldade de gerenciar agendamentos em salões e barbearias. Muitos estabelecimentos ainda dependem de ligações telefônicas, mensagens ou anotações manuais, o que resulta em agendamentos perdidos, confusão de horários e tempo desperdiçado.
 
-Com o BookBeauty, cada negócio tem sua própria página de agendamento personalizada que funciona 24 horas por dia, permitindo que clientes marquem horários quando e de onde quiserem, enquanto você gerencia tudo de forma organizada em um único painel.
+Com o ReutBook, cada negócio tem sua própria página de agendamento personalizada que funciona 24 horas por dia, permitindo que clientes marquem horários quando e de onde quiserem, enquanto você gerencia tudo de forma organizada em um único painel.
 
 ## ✨ O que ele faz
 
@@ -94,7 +94,7 @@ Para salões profissionais que querem ter controle total da experiência.
 5. Confirma o agendamento com um clique
 6. Pronto! O horário é reservado automaticamente
 
-## 🎯 Por que usar o BookBeauty?
+## 🎯 Por que usar o ReutBook?
 
 ✅ **Não perca mais agendamentos** - Funciona 24/7, mesmo quando você não pode atender
 ✅ **Menos ligações** - Seus clientes agendam sozinhos, você só precisa confirmar
@@ -113,4 +113,4 @@ Precisa de ajuda? Entre em contato através do suporte do sistema ou consulte a 
 
 ---
 
-**BookBeauty** - Agendamentos simplificados para salões e barbearias 💇‍♀️💇‍♂️
+**ReutBook** - Agendamentos simplificados para salões e barbearias 💇‍♀️💇‍♂️
